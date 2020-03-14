@@ -1,0 +1,12 @@
+# coding=utf-8
+
+API_TOKEN = "YOUR_API_TOKEN"
+SC_API_KEY_SPEECH_TO_TEXT = ""  # sc_api_key for speech_to_text
+SC_API_KEY_IMAGE_PROCESSING = ""  # sc_api_key for image_processing_authentication
+SC_API_KEY_NLU_BANKING = ""  # sc_api_key for nlu_banking
+SC_API_KEY_NLU_IOT = ""  # sc_api_key for nlu_iot
+SC_API_KEY_LICENSE_PLATE_READER = ""  # sc_api_key for license_plate_reader
+VOICE_LINK = ""  # لینک فایل صوتی
+IMAGE_1 = ""  # تصویر اول
+IMAGE_2 = ""  # تصویر دوم
+
